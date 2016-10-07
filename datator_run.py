@@ -18,7 +18,7 @@ def run():
         t2=t2+'<-'+t2[0].lower()+'('
         #--END NAME
         #--START ANALYSIS
-        valid_char=[1,2,3,4,5,6,7,8,9,',']
+        valid_char=[0,1,2,3,4,5,6,7,8,9,',']
         for k in l:
             t=','
             if k==l[len(l)-1]:
