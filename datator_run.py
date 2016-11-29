@@ -37,6 +37,6 @@ def run():
     except:
         print("Errore elaborazione file")
     run()
-print('#Script realizzato da Nicholas Giordano\n#www.nicholasgiordano.it\n#Distribuito sotto licenza GNU3.0\n')
+print('#Script realizzato da Nicholas Giordano\n#www.nicholasgiordano.it\n#Distribuito sotto licenza GPL3.0\n')
 print('Supporta input di due colonne')
 run()
